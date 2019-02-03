@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HDepot/HDepot.iml" filepath="$PROJECT_DIR$/HDepot/HDepot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestApi/RestApi.iml" filepath="$PROJECT_DIR$/RestApi/RestApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hi-framework.iml" filepath="$PROJECT_DIR$/hi-framework.iml" />
+    </modules>
+  </component>
+</project>
